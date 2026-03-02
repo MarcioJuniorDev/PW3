@@ -2,9 +2,6 @@
 
 - **ATUALIZAR O NODE.JS**
 - npm install: instalar dependências;
-- npm install expo: instalar expo;
-- npx expo install react-native-web: permite expo rodar na web;
-- npx expo start (w): rodar a aplicação;
 
 - No Windows Powershell:
   1. npm create vite <nome>(aula02)
