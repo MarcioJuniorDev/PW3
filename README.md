@@ -1,6 +1,7 @@
 23/02/26
 
 - **ATUALIZAR O NODE.JS**
+- npm install: instalar dependências;
 
 - No Windows Powershell:
   1. npm create vite <nome>(aula02)
