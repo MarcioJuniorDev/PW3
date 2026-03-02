@@ -1,8 +1,8 @@
 23/02/26
 
-**ATUALIZAR O NODE.JS**
+- **ATUALIZAR O NODE.JS**
 
-No Windows Powershell:
+- No Windows Powershell:
   1. npm create vite <nome>(aula02)
   2. Select a framework? React
   3. Variant? Javascript + React compiller
