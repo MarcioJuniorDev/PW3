@@ -1,6 +1,12 @@
 23/02/26
 
-- **ATUALIZAR O NODE.JS**
+**COMEÇO DE TODA AULA**
+- atualizar o node.js
+- npm install vite
+- npm run dev
+
+
+
 - npm install: instalar dependências;
 
 - No Windows Powershell:
