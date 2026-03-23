@@ -8,6 +8,8 @@
 
 
 - npm install: instalar dependências;
+- npm install vite-plugin-pages
+- npm install react-router-dom
 
 - No Windows Powershell:
   1. npm create vite <nome>(aula02)
