@@ -2,14 +2,12 @@
 
 **COMEÇO DE TODA AULA**
 - atualizar o node.js
-- npm install vite
-- npm run dev
-
-
-
 - npm install: instalar dependências;
 - npm install vite-plugin-pages
 - npm install react-router-dom
+- npm install vite
+- npm audit fix
+- npm run dev
 
 - No Windows Powershell:
   1. npm create vite <nome>(aula02)
