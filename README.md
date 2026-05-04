@@ -35,3 +35,9 @@
 - Hotreload: recarregamento automatico quando edita código.
 - setCount(): expressão lambda (função anônima) que define o count.
 - Componente: elemento gráfico personalizado que pode ser reutilizado. Criado no *src*.
+
+  ----------------------------------------------------
+  VARIAVEIS PADRÃO DO BANCO DE DADOS LOCAL
+
+- STORAGE_KEY = "tabela"
+- localStorage - aponta pra o armazenamento local do navegador
